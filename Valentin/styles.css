@@ -4,7 +4,7 @@ body {
     justify-content: center;
     height: 100vh;
     margin: 0;
-    background-color: #ffffff;
+    background-color: #603cc470;
 }
 
 .container {
@@ -27,7 +27,7 @@ button {
     font-size: 16px;
     margin: 10px;
     cursor: pointer;
-    background-color: #009705; /* Verde */
+    background-color: #210097; /* Verde */
     color: white;
     border: 2px solid #FFC0CB; /* Bordes rosa */
     border-radius: 10px; /* Esquinas redondeadas */
@@ -38,7 +38,7 @@ button {
     font-size: 16px;
     margin: 10px;
     cursor: pointer;
-    background-color: #FF5733; /* Rojo */
+    background-color: #d633ff; /* Rojo */
     color: white;
     border: 2px solid #FFC0CB; /* Bordes rosa */
     border-radius: 10px; /* Esquinas redondeadas */
@@ -50,20 +50,20 @@ button {
 }
 
 #siBtn:hover{
-    background-color: #053a03; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
+    background-color: #3b49c0; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
 }
 #noBtn:hover {
-    background-color: #641e0d; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
+    background-color: #d75cdb; /* Cambia a otro color en hover, puedes ajustar el valor según tus preferencias */
 }
 .bg-green {
-    background-color: #ffffff; /* Nuevo color de fondo verde */
+    background-color: #b91313; /* Nuevo color de fondo verde */
 }
 
 #messageContainer {
     font-size: 30px;
-    color: #FF0000; /* Color rojo */
+    color: #ffffff; /* Color rojo */
     font-family: 'YourDesiredFont', sans-serif; /* Reemplaza 'YourDesiredFont' con la fuente que desees */
-    text-shadow: 2px 2px 4px #000; /* Borde simulado */
+    text-shadow: 5px 5px 4px #000000; /* Borde simulado */
     animation: pulse 0.5s infinite alternate; /* Animación de palpitación más rápida */
 }
 
